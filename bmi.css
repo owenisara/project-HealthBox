@@ -1,0 +1,105 @@
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bmi-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info-bmi-con{
+    width: 100%;
+    margin-top: 1px;
+    padding: 20px;
+    font-size: 15px;
+}
+.bmi-height,.bmi-weight{
+    height: 80px;
+}
+
+#height,#weight{
+width: 500px;
+height: 50px;
+border-radius: 5px;
+border:2px solid #fb8a11ec ;
+}
+
+input:focus {
+outline: 1px solid #fb8a11ec ;
+  }
+.avg-box{
+display: flex;
+flex-direction: column;
+margin-top: 2rem;
+margin-bottom: 2rem;
+justify-content: center;
+align-items: center;
+width: 500px;
+height: 150px;
+background-color: #fd992fec;
+border-radius: 5px;
+font-size: 30px;
+color: aliceblue;
+}
+
+.clear-bmi{
+    margin-top: 1rem;
+    width: 300px;
+    height: 40px;
+    background: #eba80cec;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+.calculate{
+    width: 300px;
+    height: 40px;
+    background: #1ac033ec;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  @media screen and (max-width:700px){
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      #height,#weight{
+        width: 300px;
+        height: 50px;
+        border-radius: 5px;
+        border:2px solid #fb8a11ec ;
+        }
+
+        .avg-box{
+             width: 300px;
+             height: 100px;
+        }
+
+  }

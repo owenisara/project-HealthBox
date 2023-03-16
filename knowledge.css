@@ -1,0 +1,45 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 2rem;
+    margin-top: 1rem;
+}
+
+.nav-knowledge{
+font-size: 35px;
+color: #ff921dec;
+}
+
+.knowledge-con{
+    display: flex;
+    width: 1200px;
+    background: #ebebeb;
+    margin-left: 5rem;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.knowledge-info{
+    margin-left: 2rem;
+}
+
+.knowledge-info p{
+    font-size: 20px;
+    color: #ff921dec;
+    font-weight: bold;
+}
+
+@media screen and (max-width:1000px){
+    section{
+        display: flex;
+        justify-content: center;
+        margin-left: 1rem;
+    }
+    .knowledge-con{
+    flex-direction: column;
+     width: 100%;
+    margin: 1rem 0;
+    }
+
+}

@@ -1,0 +1,2320 @@
+
+    
+    {"drink":[{
+        "id":1,
+        "drinkname":"น้ำกระเจี๊ยบ",
+        "unit":"1 แก้ว",
+        "calorie":120
+         },
+        {
+        "id":2,
+        "drinkname":"น้ำโค้ก,น้ำเป๊ปซี่",
+        "unit":"1 แก้ว",
+        "calorie":100
+        },
+       {
+        "id":3,
+        "drinkname":"น้ำมะเขือเทศ",
+        "unit":"1 แก้ว",
+        "calorie":48
+        }
+        ,
+       {
+        "id":4,
+        "drinkname":"น้ำมะตูม",
+        "unit":"1 แก้ว",
+        "calorie":120
+        }
+        ,
+       {
+        "id":5,
+        "drinkname":"น้ำมะนาว",
+        "unit":"1 แก้ว",
+        "calorie":100
+        }
+        ,
+       {
+        "id":6,
+        "drinkname":"น้ำลำใย",
+        "unit":"1 แก้ว",
+        "calorie":100
+        }
+        ,
+       {
+        "id":7,
+        "drinkname":"น้ำส้มคั้น",
+        "unit":"1 แก้ว",
+        "calorie":160
+        }
+        ,
+       {
+        "id":8,
+        "drinkname":"น้ำสับปะรด",
+        "unit":"1 แก้ว",
+        "calorie":125
+        }
+        ,
+       {
+        "id":9,
+        "drinkname":"น้ำองุ่น",
+        "unit":"1 แก้ว",
+        "calorie":112
+        }
+        ,
+       {
+        "id":10,
+        "drinkname":"น้ำอ้อย",
+        "unit":"1 แก้ว",
+        "calorie":240
+        }
+        ,
+       {
+        "id":11,
+        "drinkname":"รูทเบียร์",
+        "unit":"1 แก้ว",
+        "calorie":105
+        }
+        ,
+       {
+        "id":12,
+        "drinkname":"วอดก้า",
+        "unit":"1 cc",
+        "calorie":2
+        }
+        ,
+       {
+        "id":13,
+        "drinkname":"วิสกี้",
+        "unit":"1 cc",
+        "calorie":2
+        }
+        ,
+       {
+        "id":14,
+        "drinkname":"น้ำขิง",
+        "unit":"1 กล่อง",
+        "calorie":60
+        }
+        ,
+       {
+        "id":15,
+        "drinkname":"น้ำจับเลี้ยง",
+        "unit":"1 แก้ว",
+        "calorie":100
+        }
+        ,
+       {
+        "id":16,
+        "drinkname":"น้ำชาเขียว(250 ml)",
+        "unit":"1 กล่อง",
+        "calorie":70
+        }
+        ,
+       {
+        "id":17,
+        "drinkname":"น้ำชาเขียวผสมน้ำผึ้ง(250 ml)",
+        "unit":"1 กล่อง",
+        "calorie":70
+        }
+        ,
+       {
+        "id":18,
+        "drinkname":"น้ำนมข้าวโพด ",
+        "unit":"1 แก้ว",
+        "calorie":80
+        }
+        ,
+       {
+        "id":19,
+        "drinkname":"น้ำผลไม้รวม ",
+        "unit":"1 กล่อง",
+        "calorie":100
+        }
+        ,
+       {
+        "id":20,
+        "drinkname":"น้ำผักรวม",
+        "unit":"1 กล่อง",
+        "calorie":90
+        }
+        ,
+       {
+        "id":21,
+        "drinkname":"น้ำฝรั่ง 100%(200 ml)",
+        "unit":"1 กล่อง",
+        "calorie":100
+        }
+        ,
+       {
+        "id":22,
+        "drinkname":"กาแฟเย็น",
+        "unit":"200 ml",
+        "calorie":317
+        }
+        ,
+       {
+        "id":23,
+        "drinkname":"โกโก้เย็น",
+        "unit":"200 ml",
+        "calorie":334
+        }
+        ,
+       {
+        "id":24,
+        "drinkname":"ชาเขียว(นม)เย็น",
+        "unit":"200 ml",
+        "calorie":319
+        }
+        ,
+       {
+        "id":25,
+        "drinkname":"ชานมเย็น",
+        "unit":"200 ml",
+        "calorie":319 
+        }
+        ,
+       {
+        "id":26,
+        "drinkname":"นมเย็น",
+        "unit":"200 ml",
+        "calorie":425
+        }
+        ,
+       {
+        "id":27,
+        "drinkname":"โอเลี้ยง",
+        "unit":"200 ml",
+        "calorie":103
+        }
+        ,
+       {
+        "id":28,
+        "drinkname":"ชาเย็นหรือชามะนาว",
+        "unit":"200 ml",
+        "calorie":100
+        }
+        ,
+       {
+        "id":29,
+        "drinkname":"เบียร์",
+        "unit":"1 กระป๋อง",
+        "calorie":145
+        }
+        ,
+       {
+        "id":30,
+        "drinkname":"ชาดำเย็น",
+        "unit":"1 แก้ว",
+        "calorie":110
+        }
+        ,
+       {
+        "id":31,
+        "drinkname":"ช็อคโกแลตร้อน",
+        "unit":"1 แก้ว",
+        "calorie":120
+        }
+        ,
+       {
+        "id":32,
+        "drinkname":"น้ำใบเตย",
+        "unit":"1 แก้ว",
+        "calorie":120 
+        }
+        ,
+       {
+        "id":33,
+        "drinkname":"น้ำใบบัวบก",
+        "unit":"1 แก้ว",
+        "calorie":120
+        }
+        
+
+    ],
+
+    "food" :[ 
+    {
+        "id":1,
+        "foodname":"กระเพาะปลา",
+        "unit":"1 ชาม",
+        "calorie":150
+    },
+    {
+        "id":2,
+        "foodname":"ก๋วยจั๊บ",
+        "unit":"1 ชาม",
+        "calorie":240
+    },
+    {
+        "id":3,
+        "foodname":"ก๋วยจั๊บญวณ",
+        "unit":"1 ชาม",
+        "calorie":235
+    },
+    {
+        "id":4,
+        "foodname":"ก๋วยเตี๋ยวคั่วไก่",
+        "unit":"1 จาน",
+        "calorie":435
+    }
+    ,
+    {
+        "id":5,
+        "foodname":"ก๋วยเตี๋ยวต้มยำกุ้ง",
+        "unit":"1 ถ้วย",
+        "calorie":320
+    },
+    {
+        "id":6,
+        "foodname":"ก๋วยเตี๋ยวเนื้อสับ",
+        "unit":"1 ถ้วย",
+        "calorie":370
+    }
+    ,
+    {
+        "id":7,
+        "foodname":"ก๋วยเตี๋ยวราดหน้าปลากระพง",
+        "unit":"1 ถ้วย",
+        "calorie":435
+    },
+    {
+        "id":8,
+        "foodname":"ก๋วยเตี๋ยวเรือน้ำตก",
+        "unit":"1 ชาม",
+        "calorie":	180
+    }
+    ,
+    {
+        "id":9,
+        "foodname":"ก๋วยเตี๋ยวเรือน้ำตกแห้ง",
+        "unit":"1 ชาม",
+        "calorie":225
+    },
+    {
+        "id":10,
+        "foodname":"ราดหน้าไก่",
+        "unit":"1 จาน",
+        "calorie":397
+    }
+    ,
+    {
+        "id":11,
+        "foodname":"ราดหน้าหมู",
+        "unit":"1 จาน",
+        "calorie":397
+    },
+    {
+        "id":12,
+        "foodname":"ผัดซีอิ๊วใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":520
+    }
+    ,
+    {
+        "id":13,
+        "foodname":"ก๋วยเตี๋ยวหลอด",
+        "unit":"4 ชิ้น",
+        "calorie":200
+    },
+    {
+        "id":14,
+        "foodname":"กุ้งแช่น้ำปลา",
+        "unit":"10 ตัว",
+        "calorie":140
+    }
+    ,
+    {
+        "id":15,
+        "foodname":"กุ้งทอดกระเทียมพริกไทย",
+        "unit":"1 ตัวกลาง",
+        "calorie":86
+    },
+    {
+        "id":16,
+        "foodname":"กุ้งอบวุ้นเส้น",
+        "unit":"1 จาน",
+        "calorie":300
+    }
+    ,
+    {
+        "id":17,
+        "foodname":"กุนเชียงทอด",
+        "unit":"1 ชิ้นเล็ก",
+        "calorie":120
+    },
+    {
+        "id":18,
+        "foodname":"กุ้ยช่ายทอด",
+        "unit":"1 ชิ้น",
+        "calorie":114
+    }
+    ,
+    {
+        "id":19,
+        "foodname":"เกาเหลาลูกชิ้นน้ำ",
+        "unit":"1 ชาม",
+        "calorie":225
+    },
+    {
+        "id":20,
+        "foodname":"เกี๊ยวซ่า",
+        "unit":"1 ชิ้น",
+        "calorie":63
+    }
+    ,
+    {
+        "id":21,
+        "foodname":"เกี๊ยวน้ำกุ้ง",
+        "unit":"1 ชาม",
+        "calorie":275
+    },
+    {
+        "id":22,
+        "foodname":"เกี๊ยวปลาน้ำ",
+        "unit":"1 ถ้วย",
+        "calorie":165
+    }
+    ,
+    {
+        "id":23,
+        "foodname":"แกงกะหรี่ไก่",
+        "unit":"1 ถ้วย",
+        "calorie":	450
+    },
+    {
+        "id":24,
+        "foodname":"แกงกะหรี่หมู",
+        "unit":"1 ถ้วย",
+        "calorie":325
+    }
+    ,
+    {
+        "id":25,
+        "foodname":"แกงขี้เหล็ก",
+        "unit":"1 ถ้วย",
+        "calorie":195
+    },
+    {
+        "id":26,
+        "foodname":"แกงเขียวหวานลูกชิ้นปลากราย",
+        "unit":"1 ถ้วย",
+        "calorie":240 
+    }
+    ,
+    {
+        "id":27,
+        "foodname":"แกงเขียวหวานหมู",
+        "unit":"1 ถ้วย",
+        "calorie":235
+    },
+    {
+        "id":28,
+        "foodname":"แกงจืดไข่เจียว",
+        "unit":"1 ถ้วย",
+        "calorie":120
+    }
+    ,
+    {
+        "id":29,
+        "foodname":"แกงจืดเต้าหู้ไม่ใส่หมูสับ",
+        "unit":"1 ถ้วย",
+        "calorie":80
+    },
+    {
+        "id":30,
+        "foodname":"แกงจืดถั่วงอกหมูสับ",
+        "unit":"1 ถ้วย",
+        "calorie":50
+    }
+    ,
+    {
+        "id":31,
+        "foodname":"แกงจืดฟักยัดไส้",
+        "unit":"1 ถ้วย",
+        "calorie":90
+    },
+    {
+        "id":32,
+        "foodname":"แกงไตปลา",
+        "unit":"1 ถ้วย",
+        "calorie":50
+    }
+    ,
+    {
+        "id":33,
+        "foodname":"แกงป่าไก่",
+        "unit":"1 ถ้วย",
+        "calorie":110
+    },
+    {
+        "id":34,
+        "foodname":"แกงเผ็ดเป็ดย่าง",
+        "unit":"1 ถ้วย",
+        "calorie":240 
+    }
+    ,
+    {
+        "id":35,
+        "foodname":"แกงมัสมั่นไก่",
+        "unit":"1 ถ้วย",
+        "calorie":325
+    },
+    {
+        "id":36,
+        "foodname":"แกงส้มชะอมไข่ทอดใส่กุ้ง",
+        "unit":"1 ถ้วย",
+        "calorie":270
+    }
+    ,
+    {
+        "id":37,
+        "foodname":"ไก่ KFC สะโพก",
+        "unit":"1 ชิ้น",
+        "calorie":355
+    },
+    {
+        "id":38,
+        "foodname":"ไก่ KFC ฮอทวิงส์",
+        "unit":"1 ชิ้น",
+        "calorie":78
+    }
+    ,
+    {
+        "id":39,
+        "foodname":"ไก่ทอด",
+        "unit":"1 น่อง",
+        "calorie":345
+    },
+    {
+        "id":40,
+        "foodname":"ไก่ย่าง",
+        "unit":"1 น่อง",
+        "calorie":165 
+    }
+    ,
+    {
+        "id":41,
+        "foodname":"ขนมจีนแกงเขียวหวานไก่",
+        "unit":"1 ชาม",
+        "calorie":594
+    },
+    {
+        "id":42,
+        "foodname":"ขนมจีนน้ำเงี้ยว",
+        "unit":"1 ถ้วย",
+        "calorie":243
+    }
+    ,
+    {
+        "id":43,
+        "foodname":"ข้าวกะเพราเนื้อ",
+        "unit":"1 จาน",
+        "calorie":622
+    },
+    {
+        "id":44,
+        "foodname":"ข้าวผัดกะเพราไก่",
+        "unit":"1 จาน",
+        "calorie":554
+    }
+    ,
+    {
+        "id":45,
+        "foodname":"ข้าวผัดกะเพราไก่ไข่ดาว",
+        "unit":"1 จาน",
+        "calorie":630
+    },
+    {
+        "id":46,
+        "foodname":"ข้าวผัดกะเพราหมู",
+        "unit":"1 จาน",
+        "calorie":580
+    }
+    ,
+    {
+        "id":47,
+        "foodname":"ข้าวกุ้งทอดกระเทียม",
+        "unit":"1 จาน",
+        "calorie":495 
+    },
+    {
+        "id":48,
+        "foodname":"ข้าวเกรียบปากหม้อ",
+        "unit":"1 ชิ้น",
+        "calorie":26
+    }
+    ,
+    {
+        "id":49,
+        "foodname":"ข้าวแกงกะหรี่ไก่",
+        "unit":"1 จาน",
+        "calorie":389
+    },
+    {
+        "id":50,
+        "foodname":"ข้าวไก่อบ",
+        "unit":"1 จาน",
+        "calorie":490
+    }
+    ,
+    {
+        "id":51,
+        "foodname":"ข้าวขาหมู",
+        "unit":"1 จาน",
+        "calorie":690
+    },
+    {
+        "id":52,
+        "foodname":"ข้าวไข่เจียว",
+        "unit":"1 จาน",
+        "calorie":445
+    }
+    ,
+    {
+        "id":53,
+        "foodname":"ข้าวคลุกกะปิ",
+        "unit":"1 จาน",
+        "calorie":410
+    },
+    {
+        "id":54,
+        "foodname":"ข้าวแช่",
+        "unit":"1 ชุด",
+        "calorie":350
+    }
+    ,
+    {
+        "id":55,
+        "foodname":"ข้าวซอยไก่",
+        "unit":"1 ชาม",
+        "calorie":395
+    },
+    {
+        "id":56,
+        "foodname":"ข้าวซอยหมู",
+        "unit":"1 ชาม",
+        "calorie":395
+    }
+    ,
+    {
+        "id":57,
+        "foodname":"ข้าวต้ม",
+        "unit":"1 ถ้วย",
+        "calorie":120
+    },
+    {
+        "id":58,
+        "foodname":"ข้าวต้มปลา",
+        "unit":"1 ถ้วย",
+        "calorie":325
+    }
+    ,
+    {
+        "id":59,
+        "foodname":"ข้าวผัดกระเพราหมูกรอบ",
+        "unit":"1 จาน",
+        "calorie":650
+    },
+    {
+        "id":60,
+        "foodname":"ข้าวผัดกะเพรากุ้ง",
+        "unit":"1 จาน",
+        "calorie":540
+    }
+    ,
+    {
+        "id":61,
+        "foodname":"ข้าวผัดกุ้งใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":595 
+    },
+    {
+        "id":62,
+        "foodname":"ข้าวผัดกุนเชียง",
+        "unit":"1 จาน",
+        "calorie":590
+    }
+    ,
+    {
+        "id":63,
+        "foodname":"ข้าวผัดคะน้าหมูกรอบ",
+        "unit":"1 จาน",
+        "calorie":670
+    },
+    {
+        "id":64,
+        "foodname":"ข้าวผัดต้มยำทะเลแห้ง",
+        "unit":"1 จาน",
+        "calorie":400
+    }
+    ,
+    {
+        "id":65,
+        "foodname":"ข้าวผัดน้ำพริกกุ้งสด",
+        "unit":"1 จาน",
+        "calorie":460
+    },
+    {
+        "id":66,
+        "foodname":"ข้าวผัดน้ำพริกเผาหมู",
+        "unit":"1 จาน",
+        "calorie":665
+    }
+    ,
+    {
+        "id":67,
+        "foodname":"ข้าวผัดปูใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":610
+    },
+    {
+        "id":68,
+        "foodname":"ข้าวผัดผักกระเฉดหมูกรอบ",
+        "unit":"1 จาน",
+        "calorie":600
+    }
+    ,
+    {
+        "id":69,
+        "foodname":"ข้าวผัดมันกุ้งใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":575
+    },
+    {
+        "id":70,
+        "foodname":"ข้าวผัดสับปะรด",
+        "unit":"1 จาน",
+        "calorie":335
+    }
+    ,
+    {
+        "id":71,
+        "foodname":"ข้าวผัดไส้กรอก",
+        "unit":"1 จาน",
+        "calorie":520
+    },
+    {
+        "id":72,
+        "foodname":"ข้าวผัดหมูน้ำพริกเผา",
+        "unit":"1 จาน",
+        "calorie":665
+    }
+    ,
+    {
+        "id":73,
+        "foodname":"ข้าวผัดหมูใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":557 
+    },
+    {
+        "id":74,
+        "foodname":"ข้าวผัดแหนม",
+        "unit":"1 จาน",
+        "calorie":610
+    }
+    ,
+    {
+        "id":75,
+        "foodname":"ข้าวพะแนงเนื้อ",
+        "unit":"1 จาน",
+        "calorie":457 
+    },
+    {
+        "id":76,
+        "foodname":"ข้าวมันไก่",
+        "unit":"1 จาน",
+        "calorie":596
+    }
+    ,
+    {
+        "id":77,
+        "foodname":"ข้าวมันไก่ทอด",
+        "unit":"1 จาน",
+        "calorie":695
+    },
+    {
+        "id":78,
+        "foodname":"ข้าวราดผัดผักบุ้ง ไข่ดาว",
+        "unit":"1 จาน",
+        "calorie":410
+    }
+    ,
+    {
+        "id":79,
+        "foodname":"ข้าวสวย",
+        "unit":"1 ทัพพี",
+        "calorie":68
+    },
+    {
+        "id":80,
+        "foodname":"ข้าวสวย (ข้าวกล้อง)",
+        "unit":"1 ทัพพี",
+        "calorie":80
+    }
+    ,
+    {
+        "id":81,
+        "foodname":"ข้าวสวย (ข้าวขาว)",
+        "unit":"1 ทัพพี",
+        "calorie":80 
+    },
+    {
+        "id":82,
+        "foodname":"ข้าวหน้าเป็ด",
+        "unit":"1 จาน",
+        "calorie":	495
+    }
+    ,
+    {
+        "id":83,
+        "foodname":"ข้าวหมกไก่",
+        "unit":"1 จาน",
+        "calorie":534
+    },
+    {
+        "id":84,
+        "foodname":"ข้าวหมูแดง",
+        "unit":"1 จาน",
+        "calorie":541
+    }
+    ,
+    {
+        "id":85,
+        "foodname":"ข้าวหมูทอด",
+        "unit":"1 จาน",
+        "calorie":	416
+    },
+    {
+        "id":86,
+        "foodname":"ข้าวหมูทอดกระเทียม",
+        "unit":"1 จาน",
+        "calorie":525
+    }
+    ,
+    {
+        "id":87,
+        "foodname":"ไข่เค็ม",
+        "unit":"1 ฟอง",
+        "calorie":75
+    },
+    {
+        "id":88,
+        "foodname":"ไข่เจียว",
+        "unit":"1 ฟอง",
+        "calorie":215
+    }
+    ,
+    {
+        "id":89,
+        "foodname":"ไข่ดาว",
+        "unit":"1 ฟอง",
+        "calorie":215
+    },
+    {
+        "id":90,
+        "foodname":"ไข่ต้ม",
+        "unit":"1 ฟอง",
+        "calorie":73
+    }
+    ,
+    {
+        "id":91,
+        "foodname":"ไข่ตุ๋น",
+        "unit":"1 ฟอง",
+        "calorie":75
+    },
+    {
+        "id":92,
+        "foodname":"ไข่นกกระทา",
+        "unit":"1 จานเล็ก",
+        "calorie":191
+    }
+    ,
+    {
+        "id":93,
+        "foodname":"ไข่พะโล้",
+        "unit":"1 ถ้วย",
+        "calorie":180
+    },
+    {
+        "id":94,
+        "foodname":"ไข่ยัดไส้",
+        "unit":"1 จาน",
+        "calorie":310
+    }
+    ,
+    {
+        "id":95,
+        "foodname":"ไข่ลวก",
+        "unit":"1 ฟอง",
+        "calorie":75
+    },
+    {
+        "id":96,
+        "foodname":"ไข่ลูกเขย",
+        "unit":"1 ฟอง",
+        "calorie":205
+    }
+    ,
+    {
+        "id":97,
+        "foodname":"คอหมูย่าง",
+        "unit":"1 จาน",
+        "calorie":200
+    },
+    {
+        "id":98,
+        "foodname":"คะน้าหมูกรอบ",
+        "unit":"1 จาน",
+        "calorie":420
+    }
+    ,
+    {
+        "id":99,
+        "foodname":"โครงไก่ทอด",
+        "unit":"1 ตัว",
+        "calorie":656
+    },
+    {
+        "id":100,
+        "foodname":"โจ๊กใส่ไข่",
+        "unit":"1 ถ้วย",
+        "calorie":250
+    }
+    ,
+    {
+        "id":101,
+        "foodname":"โจ๊กหมู",
+        "unit":"1 ถ้วย",
+        "calorie":160
+    },
+    {
+        "id":102,
+        "foodname":"โจ๊กหมูตับ ใส่ไข่ลวก",
+        "unit":"1 ถ้วย",
+        "calorie":230
+    }
+    ,
+    {
+        "id":103,
+        "foodname":"ซุปข้าวโพด",
+        "unit":"1 ถ้วย",
+        "calorie":140
+    },
+    {
+        "id":104,
+        "foodname":"ซุปผัก (ใส)",
+        "unit":"1 ถ้วย",
+        "calorie":15
+    }
+    ,
+    {
+        "id":105,
+        "foodname":"ซุปหน่อไม้",
+        "unit":"1 จาน",
+        "calorie":40 
+    },
+    {
+        "id":106,
+        "foodname":"ต้มข่าไก่",
+        "unit":"1 ถ้วย",
+        "calorie":210
+    }
+    ,
+    {
+        "id":107,
+        "foodname":"ต้มโคล้งไก่ย่าง",
+        "unit":"1 ถ้วย",
+        "calorie":115
+    },
+    {
+        "id":108,
+        "foodname":"ต้มจืดเลือดหมู",
+        "unit":"1 ถ้วย",
+        "calorie":120
+    }
+    ,
+    {
+        "id":109,
+        "foodname":"ต้มยำกุ้ง",
+        "unit":"1 ถ้วย",
+        "calorie":65
+    },
+    {
+        "id":110,
+        "foodname":"ต้มยำไก่",
+        "unit":"1 ถ้วย",
+        "calorie":60
+    }
+    ,
+    {
+        "id":111,
+        "foodname":"ต้มยำปลากระป๋อง",
+        "unit":"1 ถ้วย",
+        "calorie":55
+    },
+    {
+        "id":112,
+        "foodname":"ตับไก่ปิ้ง",
+        "unit":"1 ไม้",
+        "calorie":60
+    }
+    ,
+    {
+        "id":113,
+        "foodname":"ทอดมันกุ้ง",
+        "unit":"1 จาน",
+        "calorie":255
+    },
+    {
+        "id":117,
+        "foodname":"ทอดมันปลากลาย",
+        "unit":"1 ชิ้น",
+        "calorie":37
+    }
+    ,
+    {
+        "id":115,
+        "foodname":"เทมปุระ",
+        "unit":"1 ชิ้น",
+        "calorie":77
+    },
+    {
+        "id":116,
+        "foodname":"น่องไก่ทอด",
+        "unit":"1 ชิ้น",
+        "calorie":345 
+    }
+    ,
+    {
+        "id":117,
+        "foodname":"น่องไก่ย่าง",
+        "unit":"1 น่อง",
+        "calorie":97
+    },
+    {
+        "id":118,
+        "foodname":"น้ำพริกกะปิผักสด",
+        "unit":"1 ช้อนโต๊ะ",
+        "calorie":28
+    }
+    ,
+    {
+        "id":119,
+        "foodname":"น้ำพริกกุ้งเผา",
+        "unit":"1 ถ้วย",
+        "calorie":90
+    },
+    {
+        "id":120,
+        "foodname":"น้ำพริกปลาป่น",
+        "unit":"1 ถ้วย",
+        "calorie":35
+    }
+    ,
+    {
+        "id":121,
+        "foodname":"น้ำพริกลงเรือ",
+        "unit":"1 ถ้วย",
+        "calorie":	195
+    },
+    {
+        "id":122,
+        "foodname":"น้ำพริกหนุ่ม",
+        "unit":"1 ช้อนโต๊ะ",
+        "calorie":18
+    }
+    ,
+    {
+        "id":123,
+        "foodname":"เนื้อไก่ชุปแป้งทอด",
+        "unit":"1 ชิ้นเล็ก",
+        "calorie":71
+    },
+    {
+        "id":124,
+        "foodname":"เนื้อน้ำตก",
+        "unit":"1 จาน",
+        "calorie":165
+    }
+    ,
+    {
+        "id":125,
+        "foodname":"เนื้อผัดหวาน",
+        "unit":"1 จาน",
+        "calorie":590
+    },
+    {
+        "id":126,
+        "foodname":"บะหมี่กึ่งสำเร็จรูป",
+        "unit":"1 ก้อน",
+        "calorie":	253
+    }
+    ,
+    {
+        "id":127,
+        "foodname":"บะหมี่น่องไก่-น้ำ",
+        "unit":"1 ชาม",
+        "calorie":375
+    },
+    {
+        "id":128,
+        "foodname":"บะหมี่น้ำเกี๊ยวหมูแดง",
+        "unit":"1 ชาม",
+        "calorie":305
+    }
+    ,
+    {
+        "id":129,
+        "foodname":"บะหมี่น้ำต้มยำหมู",
+        "unit":"1 ถ้วย",
+        "calorie":300
+    },
+    {
+        "id":130,
+        "foodname":"บะหมี่แห้งหมูแดง",
+        "unit":"1 ชาม",
+        "calorie":345
+    }
+    ,
+    {
+        "id":131,
+        "foodname":"บะหมี่หมูแดง",
+        "unit":"1 ชาม",
+        "calorie":231
+    },
+    {
+        "id":132,
+        "foodname":"ปลาดุกย่าง",
+        "unit":"1 ตัวเล็ก",
+        "calorie":165
+    }
+    ,
+    {
+        "id":133,
+        "foodname":"ปลากระพงนึ่งมะนาว",
+        "unit":"1 ชิ้นกลาง",
+        "calorie":155
+    },
+    {
+        "id":134,
+        "foodname":"ปลาแซลมอนย่าง",
+        "unit":"1 จาน",
+        "calorie":260
+    }
+    ,
+    {
+        "id":135,
+        "foodname":"ปลาทอดสามรส",
+        "unit":"1 ตัวกลาง",
+        "calorie":470
+    },
+    {
+        "id":136,
+        "foodname":"ปลาทูทอด",
+        "unit":"1 ตัวกลาง",
+        "calorie":280
+    }
+    ,
+    {
+        "id":137,
+        "foodname":"ปลานึ่ง",
+        "unit":"1 ตัว",
+        "calorie":156
+    },
+    {
+        "id":138,
+        "foodname":"ปลาเผา",
+        "unit":"1 ตัว",
+        "calorie":156
+    }
+    ,
+    {
+        "id":139,
+        "foodname":"ปลาราดพริก",
+        "unit":"1 จาน",
+        "calorie":300 
+    },
+    {
+        "id":140,
+        "foodname":"ปลาร้าสับ",
+        "unit":"1 ถ้วย",
+        "calorie":35
+    }
+    ,
+    {
+        "id":141,
+        "foodname":"ปลาสลิดทอด",
+        "unit":"1 ตัว",
+        "calorie":190
+    },
+    {
+        "id":142,
+        "foodname":"ปลาหมึกชุปแป้งทอด",
+        "unit":"1 ชิ้น",
+        "calorie":49
+    }
+    ,
+    {
+        "id":143,
+        "foodname":"ปลาหมึกนึ่งมะนาว",
+        "unit":"1 ตัว",
+        "calorie":75
+    },
+    {
+        "id":144,
+        "foodname":"ปลาหมึกย่าง",
+        "unit":"1 ไม้",
+        "calorie":37
+    }
+    ,
+    {
+        "id":145,
+        "foodname":"ปอเปี๊ยะทอด",
+        "unit":"1 ชิ้น",
+        "calorie":158
+    },
+    {
+        "id":146,
+        "foodname":"ปีกไก่ทอด",
+        "unit":"1 ชิ้นกลาง",
+        "calorie":107
+    }
+    ,
+    {
+        "id":147,
+        "foodname":"ปีกไก่อบ",
+        "unit":"1 ชิ้น",
+        "calorie":169
+    },
+    {
+        "id":148,
+        "foodname":"เป็ดพะโล้",
+        "unit":"1 ถ้วย",
+        "calorie":110
+    }
+    ,
+    {
+        "id":149,
+        "foodname":"ผัดกะหล่ำปลีหมู",
+        "unit":"1 จาน",
+        "calorie":230
+    },
+    {
+        "id":150,
+        "foodname":"ผัดไข่หน่อไม้",
+        "unit":"1 จาน",
+        "calorie":200
+    }
+    ,
+    {
+        "id":151,
+        "foodname":"ผัดไทยกุ้งสด",
+        "unit":"1 จาน",
+        "calorie":486
+    },
+    {
+        "id":152,
+        "foodname":"ผัดไทยกุ้งสดใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":545
+    }
+    ,
+    {
+        "id":153,
+        "foodname":"ผัดไทยวุ้นเส้นกุ้งสด",
+        "unit":"1 จาน",
+        "calorie":520
+    },
+    {
+        "id":154,
+        "foodname":"ผัดผักบุ้งไฟแดง",
+        "unit":"1 จาน",
+        "calorie":210
+    }
+    ,
+    {
+        "id":155,
+        "foodname":"ผัดผักรวมหมู",
+        "unit":"1 จาน",
+        "calorie":210
+    },
+    {
+        "id":156,
+        "foodname":"ผัดเผ็ดปลาดุก",
+        "unit":"1 จาน",
+        "calorie":200
+    }
+    ,
+    {
+        "id":157,
+        "foodname":"ผัดเผ็ดปลาทอดกรอบ",
+        "unit":"1 จาน",
+        "calorie":290
+    },
+    {
+        "id":158,
+        "foodname":"ผัดมักกะโรนีกุ้ง",
+        "unit":"1 จาน",
+        "calorie":420
+    }
+    ,
+    {
+        "id":159,
+        "foodname":"ผัดมักกะโรนีหมู",
+        "unit":"1 จาน",
+        "calorie":514
+    },
+    {
+        "id":160,
+        "foodname":"ผัดวุ้นเส้นใส่ไข่",
+        "unit":"1 จาน",
+        "calorie":265
+    }
+    ,
+    {
+        "id":161,
+        "foodname":"เฝอ",
+        "unit":"1 ถ้วย",
+        "calorie":240
+    },
+    {
+        "id":162,
+        "foodname":"เมี่ยงคำ",
+        "unit":"1 คำ",
+        "calorie":30 
+    }
+    ,
+    {
+        "id":163,
+        "foodname":"ยากิโซบะ",
+        "unit":"1 จาน",
+        "calorie":400
+    },
+    {
+        "id":164,
+        "foodname":"ยำขนมจีน",
+        "unit":"1 จาน",
+        "calorie":220 
+    }
+    ,
+    {
+        "id":165,
+        "foodname":"ยำเนื้อย่าง",
+        "unit":"1 จาน",
+        "calorie":165
+    },
+    {
+        "id":166,
+        "foodname":"ยำปลากระป๋อง",
+        "unit":"1 จาน",
+        "calorie":55
+    }
+    ,
+    {
+        "id":167,
+        "foodname":"ยำปลาดุกฟู",
+        "unit":"1 จาน",
+        "calorie":275
+    },
+    {
+        "id":168,
+        "foodname":"ยำมาม่า",
+        "unit":"1 จาน",
+        "calorie":215
+    }
+    ,
+    {
+        "id":169,
+        "foodname":"ยำวุ้นเส้น",
+        "unit":"1 จาน",
+        "calorie":120 
+    },
+    {
+        "id":170,
+        "foodname":"ยำไส้กรอก",
+        "unit":"1 จาน",
+        "calorie":110
+    }
+    ,
+    {
+        "id":171,
+        "foodname":"ยำหมูย่าง",
+        "unit":"1 จาน",
+        "calorie":165
+    },
+    {
+        "id":172,
+        "foodname":"ลาบไก่",
+        "unit":"1 จาน",
+        "calorie":125
+    }
+    ,
+    {
+        "id":173,
+        "foodname":"ลาบหมู",
+        "unit":"1 จาน",
+        "calorie":119
+    },
+    {
+        "id":174,
+        "foodname":"สเต็กไก่ทอด + มันบด",
+        "unit":"1 จาน",
+        "calorie":615
+    }
+    ,
+    {
+        "id":175,
+        "foodname":"สเต็กปลาย่าง",
+        "unit":"1 จาน",
+        "calorie":260
+    },
+    {
+        "id":176,
+        "foodname":"สเต็กหมู + ผักสลัด",
+        "unit":"1 จาน",
+        "calorie":505
+    }
+    ,
+    {
+        "id":177,
+        "foodname":"สปาเกตตี้กะเพรากุ้ง",
+        "unit":"1 จาน",
+        "calorie":485
+    },
+    {
+        "id":178,
+        "foodname":"สปาเก็ตตี้ไก่อบ",
+        "unit":"1 จาน",
+        "calorie":430
+    }
+    ,
+    {
+        "id":179,
+        "foodname":"ส้มตำไทย ",
+        "unit":"1 จาน",
+        "calorie":55
+    },
+    {
+        "id":180,
+        "foodname":"ส้มตำ",
+        "unit":"1 จาน",
+        "calorie":80
+    }
+    ,
+    {
+        "id":181,
+        "foodname":"ส้มตำปู",
+        "unit":"1 จาน",
+        "calorie":35
+    },
+    {
+        "id":182,
+        "foodname":"สลัดกุ้ง",
+        "unit":"1 จาน",
+        "calorie":92 
+    }
+    ,
+    {
+        "id":183,
+        "foodname":"สลัดไข่",
+        "unit":"1 จาน",
+        "calorie":123
+    },
+    {
+        "id":184,
+        "foodname":"สุกี้น้ำไก่",
+        "unit":"1 ชาม",
+        "calorie":345
+    }
+    ,
+    {
+        "id":185,
+        "foodname":"สุกี้แห้งทะเล",
+        "unit":"1 ชาม",
+        "calorie":280
+    },
+    {
+        "id":186,
+        "foodname":"สุกี้หมู",
+        "unit":"1 ถ้วย",
+        "calorie":345
+    }
+    ,
+    {
+        "id":187,
+        "foodname":"ไส้กรอกอีสาน",
+        "unit":"1 ลูก",
+        "calorie":90
+    },
+    {
+        "id":188,
+        "foodname":"ไส้อั่ว",
+        "unit":"1 คำ",
+        "calorie":60
+    }
+    ,
+    {
+        "id":189,
+        "foodname":"หมูกะทะ",
+        "unit":"1 ชุด",
+        "calorie":375
+    },
+    {
+        "id":190,
+        "foodname":"หมูจุ่ม",
+        "unit":"1 ชุด",
+        "calorie":375 
+    }
+    ,
+    {
+        "id":191,
+        "foodname":"หมูปิ้ง",
+        "unit":"1 ไม้",
+        "calorie":125
+    },
+    {
+        "id":192,
+        "foodname":"หมูผัดขิง",
+        "unit":"1 จาน",
+        "calorie":275 
+    }
+    ,
+    {
+        "id":193,
+        "foodname":"หมูยอชุบแป้งทอด",
+        "unit":"1 ชิ้น",
+        "calorie":125
+    },
+    {
+        "id":194,
+        "foodname":"หมูย่างเกาหลี",
+        "unit":"1 ชุด",
+        "calorie":375
+    }
+    ,
+    {
+        "id":195,
+        "foodname":"หมูสะเต๊ะ",
+        "unit":"1 ไม้",
+        "calorie":115
+    }
+    ,
+    {
+        "id":196,
+        "foodname":"แฮมเบอร์เกอร์ไก่ชีส",
+        "unit":"1 ชิ้น",
+        "calorie":280
+    }
+    ,
+    {
+        "id":197,
+        "foodname":"แฮมเบอร์เกอร์หมู",
+        "unit":"1 ชิ้น",
+        "calorie":245
+    }
+    ,
+    {
+        "id":198,
+        "foodname":"พิซซ่าขอบไส้กรอกชีส",
+        "unit":"1 ชิ้น",
+        "calorie":340
+    }
+    ,
+    {
+        "id":199,
+        "foodname":"พิซซ่าทะเล",
+        "unit":"1 ชิ้น",
+        "calorie":	335
+    }
+    ,
+    {
+        "id":200,
+        "foodname":"พิซซ่าฮาวายเอี้ยน",
+        "unit":"1 ชิ้น",
+        "calorie":345
+    }
+    ]
+    ,"fruit":[
+    {
+        "id":1,
+        "fruitname":"กล้วยไข่",
+        "unit":"1 ลูก",
+        "calorie":40
+
+    },
+    {
+        "id":2,
+        "fruitname":"กล้วยคลุกมะพร้าว",
+        "unit":"1 ถ้วย",
+        "calorie":100
+    }
+    ,
+    {
+        "id":3,
+        "fruitname":"กล้วยฉาบ",
+        "unit":"1 ชิ้น",
+        "calorie":29
+    }
+    ,
+    {
+        "id":4,
+        "fruitname":"กล้วยตาก",
+        "unit":"1 ผล",
+        "calorie":30
+    }
+    ,
+    {
+        "id":5,
+        "fruitname":"กล้วยทอด",
+        "unit":"1 ชิ้น",
+        "calorie":50
+    }
+    ,
+    {
+        "id":6,
+        "fruitname":"กล้วยน้ำว้า",
+        "unit":"1 ลูก",
+        "calorie":36
+    }
+    ,
+    {
+        "id":7,
+        "fruitname":"กล้วยบวชชี",
+        "unit":"1 ถ้วยเล็ก",
+        "calorie":152
+    }
+    ,
+    {
+        "id":8,
+        "fruitname":"กล้วยหอม",
+        "unit":"1 ลูก",
+        "calorie":77
+    }
+    ,
+    {
+        "id":10,
+        "fruitname":"กะละแม",
+        "unit":"1 ห่อเล็ก",
+        "calorie":65 
+    }
+    ,
+    {
+        "id":11,
+        "fruitname":"กะหรี่พัฟ",
+        "unit":"1 ตัว",
+        "calorie":157
+    }
+    ,
+    {
+        "id":12,
+        "fruitname":"แก้วมังกร",
+        "unit":"1 ลูก",
+        "calorie":60
+    }
+    ,
+    {
+        "id":13,
+        "fruitname":"ขนมกรวย",
+        "unit":"1 กรวย",
+        "calorie":63
+    }
+    ,
+    {
+        "id":14,
+        "fruitname":"ขนมกล้วย",
+        "unit":"1 ห่อ",
+        "calorie":120
+    }
+    ,
+    {
+        "id":15,
+        "fruitname":"ขนมกุ้ยช่าย",
+        "unit":"1 ชิ้น",
+        "calorie":53
+    }
+    ,
+    {
+        "id":16,
+        "fruitname":"ขนมเกลียว",
+        "unit":"1 ตัว",
+        "calorie":25
+    }
+    ,
+    {
+        "id":17,
+        "fruitname":"ขนมขี้หนู",
+        "unit":"1 ถ้วย",
+        "calorie":165
+    }
+    ,
+    {
+        "id":18,
+        "fruitname":"ขนมเข่ง",
+        "unit":"1 กระทง",
+        "calorie":120 
+    }
+    ,
+    {
+        "id":19,
+        "fruitname":"ขนมครก",
+        "unit":"1 คู่",
+        "calorie":92
+    }
+    ,
+    {
+        "id":20,
+        "fruitname":"ขนมตาล",
+        "unit":"1 กระทง",
+        "calorie":58
+    }
+    ,
+    {
+        "id":21,
+        "fruitname":"ขนมถั่วแปป",
+        "unit":"1 ชิ้น",
+        "calorie":14
+    }
+    ,
+    {
+        "id":22,
+        "fruitname":"ขนมเทียน",
+        "unit":"1 ห่อ",
+        "calorie":103 
+    }
+    ,
+    {
+        "id":23,
+        "fruitname":"ขนมบ้าบิ่น",
+        "unit":"1 ชิ้น",
+        "calorie":130
+    }
+    ,
+    {
+        "id":24,
+        "fruitname":"ขนมเบื้องไทยไส้เค็ม",
+        "unit":"1 แผ่น",
+        "calorie":50
+    }
+    ,
+    {
+        "id":25,
+        "fruitname":"ขนมเบื้องไทยไส้หวาน",
+        "unit":"1 แผ่น",
+        "calorie":60
+    }
+    ,
+    {
+        "id":26,
+        "fruitname":"ขนมเปียกปูน",
+        "unit":"1 จานเล็ก",
+        "calorie":195
+    }
+    ,
+    {
+        "id":27,
+        "fruitname":"ขนมผิง",
+        "unit":"1 ก้อนเล็ก",
+        "calorie":5
+    }
+    ,
+    {
+        "id":28,
+        "fruitname":"ขนมฝักบัว",
+        "unit":"1 ชิ้น",
+        "calorie":70
+    }
+    ,
+    {
+        "id":29,
+        "fruitname":"ขนมเล็บมือนาง",
+        "unit":"1 จานเล็ก",
+        "calorie":275
+    }
+    ,
+    {
+        "id":30,
+        "fruitname":"ข้าวต้มมัด",
+        "unit":"1 มัด",
+        "calorie":285
+    }
+    ,
+    {
+        "id":31,
+        "fruitname":"ข้าวตังหน้าตั้ง",
+        "unit":"1 แผ่น",
+        "calorie":90 
+    }
+    ,
+    {
+        "id":32,
+        "fruitname":"ข้าวตังหมูหยอง",
+        "unit":"1 แผ่น",
+        "calorie":80
+    }
+    ,
+    {
+        "id":33,
+        "fruitname":"พายชีสบูลเบอร์รี่",
+        "unit":"1 ชิ้น",
+        "calorie":350
+    }
+    ,
+    {
+        "id":34,
+        "fruitname":"ข้าวแตนราดน้ำตาล",
+        "unit":"1 แผ่น",
+        "calorie":150
+    }
+    ,
+    {
+        "id":35,
+        "fruitname":"ข้าวโพดต้ม",
+        "unit":"1 ฝัก",
+        "calorie":200
+    }
+    ,
+    {
+        "id":36,
+        "fruitname":"ข้าวเม่าทอด",
+        "unit":"1 ชิ้น",
+        "calorie":209
+    }
+    ,
+    {
+        "id":37,
+        "fruitname":"ข้าวเหนียวมูลกะทิ",
+        "unit":"1 จานเล็ก",
+        "calorie":197
+    }
+    ,
+    {
+        "id":38,
+        "fruitname":"ข้าวเหนียวหน้าสังขยา",
+        "unit":"1 จานเล็ก",
+        "calorie":223
+    }
+    ,
+    {
+        "id":39,
+        "fruitname":"ข้าวอบเผือก",
+        "unit":"1 จาน",
+        "calorie":385
+    }
+    ,
+    {
+        "id":40,
+        "fruitname":"ไข่หงส์",
+        "unit":"1 ใบ",
+        "calorie":58
+    }
+    ,
+    {
+        "id":41,
+        "fruitname":"ครองแครงกรอบเค็ม",
+        "unit":"1 ตัว",
+        "calorie":19
+    }
+    ,
+    {
+        "id":42,
+        "fruitname":"ครัวซอง",
+        "unit":"1 ชิ้น",
+        "calorie":235
+    }
+    ,
+    {
+        "id":43,
+        "fruitname":"แคนตาลูป",
+        "unit":"1 ชิ้น",
+        "calorie":4
+    }
+    ,
+    {
+        "id":44,
+        "fruitname":"เงาะ",
+        "unit":"1 ลูก",
+        "calorie":12
+    }
+    ,
+    {
+        "id":45,
+        "fruitname":"เฉาก๊วย",
+        "unit":"1 ถ้วย",
+        "calorie":90
+    }
+    ,
+    {
+        "id":46,
+        "fruitname":"ชมพู่",
+        "unit":"1 ผล",
+        "calorie":16
+    }
+    ,
+    {
+        "id":47,
+        "fruitname":"เชอรี่",
+        "unit":"1 ผล",
+        "calorie":15
+    }
+    ,
+    {
+        "id":48,
+        "fruitname":"ซาลาเปาทอด",
+        "unit":"1 ลูก",
+        "calorie":157
+    }
+    ,
+    {
+        "id":49,
+        "fruitname":"ซาลาเปาไส้หมู",
+        "unit":"1 ลูก",
+        "calorie":202
+    }
+    ,
+    {
+        "id":50,
+        "fruitname":"ซาหริ่ม",
+        "unit":"1 ชุด",
+        "calorie":217
+    }
+    ,
+    {
+        "id":51,
+        "fruitname":"เต้าส่วน",
+        "unit":"1 ถ้วย",
+        "calorie":215
+    }
+    ,
+    {
+        "id":52,
+        "fruitname":"เต้าหู้แข็ง",
+        "unit":"1 ก้อน",
+        "calorie":210
+    }
+    ,
+    {
+        "id":53,
+        "fruitname":"เต้าหู้ไข่",
+        "unit":"1 หลอด",
+        "calorie":70
+    }
+    ,
+    {
+        "id":54,
+        "fruitname":"เต้าหู้นมสด",
+        "unit":"1 ถ้วย",
+        "calorie":150
+    }
+    ,
+    {
+        "id":55,
+        "fruitname":"เต้าฮวยน้ำขิง",
+        "unit":"1 ถ้วย",
+        "calorie":130
+    }
+    ,
+    {
+        "id":56,
+        "fruitname":"แตงไทย",
+        "unit":"1 ชิ้น",
+        "calorie":4
+    }
+    ,
+    {
+        "id":57,
+        "fruitname":"แตงโม",
+        "unit":"1 กิโลกรัม",
+        "calorie":250
+    }
+    ,
+    {
+        "id":58,
+        "fruitname":"ถั่วทอด",
+        "unit":"1 แพ",
+        "calorie":82
+    }
+    ,
+    {
+        "id":59,
+        "fruitname":"ถั่วลิสงทอด",
+        "unit":"1 ช้อนโต๊ะ",
+        "calorie":62
+    }
+    ,
+    {
+        "id":60,
+        "fruitname":"ทองม้วน",
+        "unit":"1 อัน",
+        "calorie":35
+    }
+    ,
+    {
+        "id":61,
+        "fruitname":"ทับทิมกรอบ",
+        "unit":"1 ถ้วย",
+        "calorie":250
+    }
+    ,
+    {
+        "id":62,
+        "fruitname":"ทุเรียน",
+        "unit":"1 เม็ด",
+        "calorie":59
+    }
+    ,
+    {
+        "id":63,
+        "fruitname":"ทุเรียนทอดกรอบ",
+        "unit":"1 ชิ้น",
+        "calorie":9
+    }
+    ,
+    {
+        "id":64,
+        "fruitname":"น้อยหน่า",
+        "unit":"1 ลูก",
+        "calorie":61
+    }
+    ,
+    {
+        "id":65,
+        "fruitname":"บะจ่าง",
+        "unit":"1 ลูก",
+        "calorie":300
+    }
+    ,
+    {
+        "id":66,
+        "fruitname":"บัวลอย",
+        "unit":"1 ถ้วยเล็ก",
+        "calorie":223
+    }
+    ,
+    {
+        "id":67,
+        "fruitname":"บัวลอยเผือก",
+        "unit":"1 ถ้วย",
+        "calorie":300
+    }
+    ,
+    {
+        "id":68,
+        "fruitname":"ปาท่องโก๋",
+        "unit":"1 ตัว",
+        "calorie":124
+    }
+    ,
+    {
+        "id":69,
+        "fruitname":"เผือกทอด",
+        "unit":"1 ชิ้น",
+        "calorie":99
+    }
+    ,
+    {
+        "id":70,
+        "fruitname":"ฝรั่ง",
+        "unit":"1 ผล",
+        "calorie":174 
+    }
+    ,
+    {
+        "id":71,
+        "fruitname":"ฝอยทอง",
+        "unit":"1 แพ",
+        "calorie":146
+    }
+    ,
+    {
+        "id":72,
+        "fruitname":"พุทรา",
+        "unit":"1 ลูก",
+        "calorie":20
+    }
+    ,
+    {
+        "id":73,
+        "fruitname":"มะกอกฝรั่ง",
+        "unit":"1 ผล",
+        "calorie":20
+    }
+    ,
+    {
+        "id":74,
+        "fruitname":"มะขามหวาน",
+        "unit":"1 ผล",
+        "calorie":20
+    }
+    ,
+    {
+        "id":75,
+        "fruitname":"มะปรางสุก",
+        "unit":"1 ผล",
+        "calorie":20
+    }
+    ,
+    {
+        "id":76,
+        "fruitname":"มะเฟือง",
+        "unit":"1 ผล",
+        "calorie":120
+    }
+    ,
+    {
+        "id":77,
+        "fruitname":"มะไฟ",
+        "unit":"1 ผล",
+        "calorie":4
+    }
+    ,
+    {
+        "id":78,
+        "fruitname":"มะม่วงเขียวเสวย",
+        "unit":"1 ผล",
+        "calorie":120
+    }
+    ,
+    {
+        "id":79,
+        "fruitname":"มะม่วงดิบ",
+        "unit":"1 ลูก",
+        "calorie":110
+    }
+    ,
+    {
+        "id":80,
+        "fruitname":"มะม่วงน้ำดอกไม้",
+        "unit":"1 ชิ้น",
+        "calorie":15
+    }
+    ,
+    {
+        "id":81,
+        "fruitname":"มะม่วงสุก",
+        "unit":"1 ลูก",
+        "calorie":98
+    }
+    ,
+    {
+        "id":82,
+        "fruitname":"มะม่วงอกร่องสุก",
+        "unit":"1 ชิ้น",
+        "calorie":15
+    }
+    ,
+    {
+        "id":83,
+        "fruitname":"มะยม",
+        "unit":"1 เม็ด",
+        "calorie":4
+    }
+    ,
+    {
+        "id":84,
+        "fruitname":"มะละกอ",
+        "unit":"1 ชิ้น",
+        "calorie":8
+    }
+    ,
+    {
+        "id":85,
+        "fruitname":"มังคุด",
+        "unit":"1 ผล",
+        "calorie":13
+    }
+    ,
+    {
+        "id":86,
+        "fruitname":"มันแกงบวช",
+        "unit":"1 ถ้วยเล็ก",
+        "calorie":184
+    }
+    ,
+    {
+        "id":87,
+        "fruitname":"มันทอด",
+        "unit":"1 ชิ้น",
+        "calorie":124
+    }
+    ,
+    {
+        "id":88,
+        "fruitname":"มั่นฝรั่งทอด(เฟร้นฟราย)",
+        "unit":"1 ชิ้น",
+        "calorie":20
+    }
+    ,
+    {
+        "id":89,
+        "fruitname":"เมล็ดมะม่วงหิมพานต์ทอด",
+        "unit":"1 ชิ้น",
+        "calorie":28
+    }
+    ,
+    {
+        "id":90,
+        "fruitname":"ระกำ",
+        "unit":"1 ผล",
+        "calorie":8
+    }
+    ,
+    {
+        "id":91,
+        "fruitname":"โรตี ใส่นมข้นและน้ำตาล",
+        "unit":"1 ชิ้น",
+        "calorie":192
+    }
+    ,
+    {
+        "id":92,
+        "fruitname":"ลองกอง",
+        "unit":"1 ลูก",
+        "calorie":6
+    }
+    ,
+    {
+        "id":93,
+        "fruitname":"ลอดช่องสิงคโปร์",
+        "unit":"1 ถ้วย",
+        "calorie":215
+    }
+    ,
+    {
+        "id":94,
+        "fruitname":"ละมุด",
+        "unit":"1 ผล",
+        "calorie":120
+    }
+    ,
+    {
+        "id":95,
+        "fruitname":"ลางสาด",
+        "unit":"1 ผล",
+        "calorie":6
+    }
+    ,
+    {
+        "id":96,
+        "fruitname":"ลำไย",
+        "unit":"1 เม็ด",
+        "calorie":8
+    }
+    ,
+    {
+        "id":97,
+        "fruitname":"ลิ้นจี่",
+        "unit":"1 ลูก",
+        "calorie":17
+    }
+    ,
+    {
+        "id":98,
+        "fruitname":"ลูกเกด",
+        "unit":"1 เม็ด",
+        "calorie":4
+    }
+    ,
+    {
+        "id":99,
+        "fruitname":"ลูกชุบ",
+        "unit":"1 ชิ้น",
+        "calorie":57
+    }
+    ,
+    {
+        "id":100,
+        "fruitname":"ลูกตาลอ่อน",
+        "unit":"1 ผล",
+        "calorie":120
+    }
+    ,
+    {
+        "id":101,
+        "fruitname":"ลูกพลับ",
+        "unit":"1 ผล",
+        "calorie":120
+    }
+    ,
+    {
+        "id":102,
+        "fruitname":"เค้กกล้วยหอม",
+        "unit":"1 ชิ้น",
+        "calorie":370
+    }
+    ,
+    {
+        "id":103,
+        "fruitname":"เค้กช็อคโกแลต",
+        "unit":"1 ชิ้น",
+        "calorie":275
+    }
+    ,
+    {
+        "id":104,
+        "fruitname":"เค้กเนย",
+        "unit":"1 ชิ้น",
+        "calorie":255
+    }
+    ,
+    {
+        "id":105,
+        "fruitname":"เค้กใบเตย",
+        "unit":"1 ชิ้น",
+        "calorie":250
+    }
+    ,
+    {
+        "id":106,
+        "fruitname":"โรตีสายไหม",
+        "unit":"1 ชิ้น",
+        "calorie":145
+    }
+    ,
+    {
+        "id":107,
+        "fruitname":"ไอศกรีมกะทิ",
+        "unit":"1 ก้อน",
+        "calorie":108
+    }
+    ,
+    {
+        "id":108,
+        "fruitname":"ไอศกรีมกาแฟ",
+        "unit":"1 ก้อน",
+        "calorie":142
+    }
+    ,
+    {
+        "id":109,
+        "fruitname":"ไอศกรีมชอกโกแล็ต",
+        "unit":"1 ก้อน",
+        "calorie":110
+    }
+    ,
+    {
+        "id":110,
+        "fruitname":"ไอศกรีมวนิลลา",
+        "unit":"1 ก้อน",
+        "calorie":140
+    }
+    ,
+    {
+        "id":111,
+        "fruitname":"ไอศกรีมสตรอเบอรี่",
+        "unit":"1 ก้อน",
+        "calorie":110 
+    }
+    ,
+    {
+        "id":112,
+        "fruitname":"ไอศกรีมเรซิน",
+        "unit":"1 ก้อน",
+        "calorie":264
+    }
+    ]
+}
+
+
+    
+  

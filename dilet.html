@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health-Box</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="dilet.css">
+</head>
+<body>
+    <header>
+        <nav>
+              <div class="hamberker-btn">
+                  <i class="bi bi-list"></i>
+                </div>
+                <div class="logo">
+                    <a href="index.html"></i>HEALTH-BOX</a>
+                </div>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="dilet.html">Dilet diary</a></li>
+                        <li><a href="bmi.html">BMI</a></li>
+                        <li><a href="knowledge.html">Knowledge</a></li>
+                    </ul>
+               </nav>
+      </header>
+      <div class="info-cal">
+      <div>
+        แคลอรี่ เป็นหน่วยวัดพลังงานอย่างหนึ่ง โดยทั่วไปการวัดหน่วยพลังงานมักใช้หน่วย "จูล" ซึ่งเป็นมาตราเอสไอสำหรับการวัดพลังงาน ส่วนแคลอรีมักใช้ในการวัดหน่วยพลังงานอาหาร
+        เเคลอรี่ หรือพลังงานที่ร่างกายใช้ทำกิจกรรมต่าง ๆ  มักเรียกว่า "กิโลแคลอรี่" (Kilocalories) ซึ่งจะเขียนอยู่บนฉลากอาหารว่า kcal โดยทั่วไปแล้ว ร่างกายต้องการแคลอรี่ 
+        เพื่อนำมาใช้เป็นพลังงานในการทำกิจกรรมต่าง ๆ ตั้งแต่หายใจไปจนถึงกิจกรรมที่ต้องเคลื่อนไหวร่างกาย เช่น การเดินหรือการวิ่ง 
+        อย่างไรก็ตาม หากรับจำนวนแคลอรี่มากกว่าที่เผาผลาญออกไป ร่างกายจะแปรรูปพลังงานเหล่านั้นเป็นไขมันส่วนเกินเก็บสะสมตามร่างกาย ส่งผลให้น้ำหนักตัวเพิ่มขึ้น
+      </div>
+      <img style="width: 300px;" src="image/food3.jpg" alt="">
+      <p>ความต้องการแคลอรี่ต่อวัน</p>
+     <p>ความต้องการแคลอรี่ต่อวันของผู้หญิงประมาณ 1500 – 2000 แคลอรี</p>
+     <p>ความต้องการแคลอรี่ต่อวันผู้ชายประมาณ 2000 – 2500 แคลอรี</p>
+     <p>แค่ยังมีปัจจัยอื่นๆอีกที่เกี่ยวข้อง เช่น อายุ เพศ น้ำหนัก ทำให้แต่ละคนต้องการพลังงานในแต่ละวันแตกต่างกัน</p>
+    </div>
+
+      <div class="nav-dilet">
+        <div class="food-btn">Food</div>
+        <div class="drink-btn">Drink</div>
+        <div class="fruit-btn">Fruit&Sweets</div>
+      </div>
+    
+ 
+  
+  
+
+
+   <section  class="section-dilet">
+   
+    <div  class="dilet-con "> 
+    <div id="food-con" class="dilet-container">  
+    </div> 
+    <div id="drink-con" class="dilet-container">  
+    </div> 
+    <div id="fruit-con" class="dilet-container">  
+    </div> 
+   </div>
+   
+  <div class="selecter-con">
+    <p>รายการอาหาร</p>
+    <div id="list-select"></div>
+  </div>
+  <div>
+    <p>จำนวนแคลอรี่ทั้งหมด</p>
+    <div id="sum-kcal">แคลอรี่ :0</div>
+    <div class="clearlist"> ลบรายการอาหาร </div>
+  </div>
+    </section>
+    <div class="container">
+      <footer class="py-3 my-4">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
+          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Features</a></li>
+          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
+          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+        </ul>
+        <p class="text-center text-muted">© 2023 HEALTH-BOX</p>
+      </footer>
+    </div>
+    
+   
+    <script src="https://code.jquery.com/jquery-3.6.3.js" 
+    integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" 
+    crossorigin="anonymous"></script>
+    <script src="dilet.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>

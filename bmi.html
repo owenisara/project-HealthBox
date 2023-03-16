@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health-Box</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="bmi.css">
+</head>
+<body>
+    <header>
+        <nav>
+              <div class="hamberker-btn">
+                  <i class="bi bi-list"></i>
+                </div>
+                <div class="logo">
+                    <a href="index.html"></i>HEALTH-BOX</a>
+                </div>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="dilet.html">Dilet diary</a></li>
+                        <li><a href="bmi.html">BMI</a></li>
+                        <li><a href="knowledge.html">Knowledge</a></li>
+                    </ul>
+               </nav>
+      </header>
+   <section>
+    <div class="info-bmi-con">
+        ค่าดัชนีมวลกาย (Body Mass Index : BMI) คือ ค่าที่สามารถวัดได้จากน้ำหนักของแต่ละบุคคลต่อความสูง 
+        ซึ่งค่าดัชนีมวลกายนี้มักถูกนำไปใช้เป็นตัวชี้วัดของปริมาณไขมันที่มีอยู่ในร่างกายของคนเรา (Body fat) ซึ่งองค์การอนามัยโลก 
+        (World Health Organization : WHO) ได้เป็นผู้กำหนดค่ามาตรฐาน BMI สำหรับผู้ที่มีอายุตั้งแต่ 20 ปีขึ้นไป 
+        เพื่อใช้เป็นดัชนีชี้วัดปริมาณไขมันในร่างกายเพื่อระบุถึงความเสี่ยงต่อการเป็นโรคอ้วนหรือผอมจนเกินไป
+    </div>
+   <div class="bmi-container">
+       <p>โปรแกรมคำนวณหาค่าดัชนีมวลกาย (BMI)</p>
+     
+        <div class="bmi-height">
+        ส่วนสูง:(cm.) 
+        <input type="number" id="height"  placeholder=" ส่วนสูง: เซนติเมตร">
+        </div>
+        <div class="bmi-weight">
+        น้ำหนัก:(kg.) 
+        <input type="number" id="weight"  placeholder=" น้ำหนัก: กิโลกรัม">
+        </div>
+        <button class="calculate">คำนวณค่า</button>
+        <button class="clear-bmi">ลบข้อมูล</button>
+        <div class="avg-box">
+        <p class="title-avg">BMI</p>
+        <div class="avg"></div>
+       </div>
+   </div>
+   
+   <table>
+    <tr>
+      <th>BMI kg/m2</th>
+      <th>อยู่ในเกณท์</th>
+      <th>ภาวะเสี่ยงต่อโรค</th>
+    </tr>
+    <tr>
+      <td>น้อยกว่า 18.50</td>
+      <td>น้ำหนักน้อย / ผอม</td>
+      <td>มากกว่าคนปกติ</td>
+    </tr>
+    <tr>
+      <td>ระหว่าง 18.50 - 22.90</td>
+      <td>ปกติ (สุขภาพดี)</td>
+      <td>เท่าคนปกติ</td>
+    </tr>
+    <tr>
+        <td>ระหว่าง 23 - 24.90</td>
+        <td>ท้วม / โรคอ้วนระดับ 1</td>
+        <td>อันตรายระดับ 1</td>
+      </tr>
+      <tr>
+        <td>ระหว่าง 25 - 29.90</td>
+        <td>อ้วน / โรคอ้วนระดับ 2</td>
+        <td>อันตรายระดับ 2</td>
+      </tr>
+      <tr>
+        <td>มากกว่า 30</td>
+        <td>อ้วนมาก / โรคอ้วนระดับ 3</td>
+        <td>อันตรายระดับ 3</td>
+      </tr>
+  </table>
+   </section>
+   <div class="container">
+    <footer class="py-3 my-4">
+      <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Features</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
+        <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+      </ul>
+      <p class="text-center text-muted">© 2023 HEALTH-BOX</p>
+    </footer>
+  </div>
+   
+   <script src="index.js"></script>
+   <script src="bmi.js"></script>
+  
+</body>
+</html>

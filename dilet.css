@@ -1,0 +1,193 @@
+
+.section-dilet{
+    display: flex;
+   
+
+}
+.item{
+    display: flex;
+    width: 280px;
+    height: 60px;
+    background: #fe9c34ec;
+    margin: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 8px;
+   
+}
+.item:hover{
+    background: #f37d00ec;
+   
+}
+
+
+    
+.dilet-con{
+    display: flex;
+    width: 960px;
+    margin-left: 2rem;
+    border:1px solid black;
+   
+    height:500px;
+    overflow-y:scroll;overflow-x:hide;
+}
+
+.nav-dilet{
+    display: flex;
+    width: 1000px;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.food-btn,.drink-btn,.fruit-btn{
+    display: flex;
+    width: 200px;
+    height: 40px;
+    background: #fb8a11ec;
+    margin: 1rem;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: aliceblue;
+    cursor: pointer;
+   
+}
+
+.info-cal{
+    margin-top: 6px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+
+.info-cal div{
+    display: flex;
+    height: 100px;
+    flex-direction: column;
+    width: 1300px;
+    margin-bottom: 1rem;
+   
+}
+.itemlist{
+    background: #fca03dec;
+    width: 350px;
+    height: 30px;
+    display: flex;
+    justify-content:space-between;
+    color: #000000ec;
+    padding: 5px;
+    
+}
+.selecter-con{
+    width: 350px;
+    
+}
+#food-con{
+   display: flex;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+   
+}
+#drink-con{
+    display: none;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    
+}
+#fruit-con{
+    display: none;
+    width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    
+}
+#sum-kcal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    background: #f48200ec;
+    margin-left: 1rem;
+    color: #ffffff;
+    
+}
+
+.clearlist{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 120px;
+    height: 50px;
+    background: #1ac033ec;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+@media screen and (max-width:1000px){
+    .section-dilet{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .nav-dilet{
+        flex-direction: column;
+        width:100%;
+    }
+    .food-btn,.drink-btn,.fruit-btn{
+        width: 400px;
+    }
+    
+
+    .dilet-con{
+        display: flex;
+        width:auto ;
+        justify-content: center;
+        align-items: center;
+    }
+    #food-con{
+        display: flex;
+         width: 100%;
+         height: auto;
+         justify-content: center;
+       
+        
+     }
+     #drink-con{
+         display: none;
+         width: 100%;
+         height: auto;
+         justify-content: center;
+        
+         
+     }
+     #fruit-con{
+         display: none;
+         width: 100%;
+         height: auto;
+         justify-content: center;
+         
+     }
+    .selecter-con{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
