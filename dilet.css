@@ -30,9 +30,8 @@
     width: 960px;
     margin-left: 2rem;
     border:1px solid black;
-   
     height:500px;
-    overflow-y:scroll;overflow-x:hide;
+    overflow-y:scroll;
 }
 
 .nav-dilet{
@@ -156,8 +155,8 @@
     .dilet-con{
         display: flex;
         width:auto ;
-        justify-content: center;
-        align-items: center;
+      
+        
     }
     #food-con{
         display: flex;
